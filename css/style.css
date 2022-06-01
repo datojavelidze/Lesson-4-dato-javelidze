@@ -1,0 +1,98 @@
+.inline{
+	display: inline-block;
+}
+.color{
+	color: orange;
+}
+li{
+	margin-right: 15px;
+
+}
+.head{
+	margin-bottom: 43px;
+}
+.logo{
+	margin:15px 10px 0 30px;
+	vertical-align: baseline;
+
+}
+/*first div*/
+.photo{
+	width: 250px;
+	margin:10px 45px 0 30px;
+	vertical-align: top;
+}
+.text{
+	width:800px;
+	margin:5px 10px 0 0;
+	vertical-align: top;
+}
+.tve{
+	width: 46px;
+	height: 50px;
+	margin-left: 30px ;
+	background-color:royalblue;
+}
+.mai{
+	margin-left: 30px;
+	color: steelblue;
+}
+.number{
+	font-size: 41px;
+	color: whitesmoke;
+}
+.sami{
+	margin:20px 39px 10px 30px;
+}
+.allsect{
+	margin-bottom: 100px;
+}
+
+.fbook{
+	margin:0 35px;
+}
+.point{
+	width: 80px;
+	height: 100px;
+}
+.psize{
+	width: 485px;
+	height: 150px;
+}
+.pdiv{
+	background-color: whitesmoke;
+	margin-left: 30px;
+}
+.pcolor{
+	color: royalblue;
+}
+h2{
+	margin:50px 0 20px 30px;
+	font-weight:bold;
+}
+.htm{
+	padding:30px 0 0 30px;
+}
+.cinfo{
+	color: royalblue;
+	font-weight: bold;
+	
+}
+.cdiv{
+	margin-top: 70px;
+	margin-left: 100px;
+}
+.map{
+	width: 860px;
+	height: 460px;
+	margin-top: 70px;
+	background-color: lightblue;
+	vertical-align: top;
+}
+.xazi{
+	width: 1.5px;
+	height: 32px;
+	background-color: steelblue;
+	display: inline-block;
+	margin-right: 35px;
+}
