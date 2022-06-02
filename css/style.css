@@ -1,3 +1,6 @@
+body{
+	width: 1370px;
+}
 .inline{
 	display: inline-block;
 }
@@ -18,18 +21,22 @@ li{
 }
 /*first div*/
 .photo{
-	width: 250px;
-	margin:10px 45px 0 30px;
+	width: 270px;
+	height: 210px;
+	margin:10px 39px 197px 30px;
 	vertical-align: top;
 }
 .text{
-	width:800px;
+	width:929px;
+	height: 360px;
+	font-size: 16px;
 	margin:5px 10px 0 0;
 	vertical-align: top;
+	font-family: "BPG Ingiri Arial", sans-serif;
 }
 .tve{
 	width: 46px;
-	height: 50px;
+	height: 55px;
 	margin-left: 30px ;
 	background-color:royalblue;
 }
@@ -43,6 +50,7 @@ li{
 }
 .sami{
 	margin:20px 39px 10px 30px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
 }
 .allsect{
 	margin-bottom: 100px;
@@ -52,26 +60,55 @@ li{
 	margin:0 35px;
 }
 .point{
-	width: 80px;
-	height: 100px;
+	width: 100px;
+	height: 117px;
+	margin: 0 60px 42px 38px;
+	vertical-align: top;
+}
+.mob{
+	width: 85px;
+	height: 128px;
+	margin: 0 52px 56px 63px;
+	vertical-align: top;
+
 }
 .psize{
-	width: 485px;
-	height: 150px;
+	width: 355px;
+	height: 144px;
+	font-size: 20px;
+	color: #333333;
+	vertical-align: top;
 }
 .pdiv{
+	width: 570px;
+	height: 225px;
 	background-color: whitesmoke;
 	margin-left: 30px;
+	vertical-align: top;
 }
 .pcolor{
-	color: royalblue;
+	color:#3D58A6;
+	font-size: 22px;
+	margin-bottom: 13px;
 }
 h2{
-	margin:50px 0 20px 30px;
-	font-weight:bold;
+	margin:120px 0 31px 30px;
+	color:#000000;
+	font-size: 24px;
+	font-weight: bold;
+}
+.mainnews{
+	padding-bottom: 68px;
 }
 .htm{
 	padding:30px 0 0 30px;
+	margin: 0 auto;
+}
+.maindiv-c{
+	width: 1366px;
+	height: 570px;
+	background-color: #E6E6E6;
+	margin-bottom: 31px;
 }
 .cinfo{
 	color: royalblue;
@@ -83,8 +120,8 @@ h2{
 	margin-left: 100px;
 }
 .map{
-	width: 860px;
-	height: 460px;
+	width: 874px;
+	height: 466px;
 	margin-top: 70px;
 	background-color: lightblue;
 	vertical-align: top;
@@ -95,4 +132,10 @@ h2{
 	background-color: steelblue;
 	display: inline-block;
 	margin-right: 35px;
+}
+.ninomtav-b{
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+.roboto{
+	font-family: 'Roboto', sans-serif;
 }
